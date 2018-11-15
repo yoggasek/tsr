@@ -1,0 +1,8 @@
+﻿  dialog.cpp
+  film.cpp
+  kamera.cpp
+  main.cpp
+  mainwindow.cpp
+  moc_mainwindow.cpp
+  moc_dialog.cpp
+  mainwindow.vcxproj -> C:\Users\Patryk\source\repos\MainWindow\Win32\Release\mainwindow.exe
